@@ -1,0 +1,22 @@
+{
+  "name": "is-fizzbuzz",
+  "version": "1.0.1",
+  "description": "A simple function that checks if number is 'FizzBuzz'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BBartt/my-first-npm-package.git"
+  },
+  "keywords": [
+    "FizzBuzz"
+  ],
+  "author": "bbartt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BBartt/my-first-npm-package/issues"
+  },
+  "homepage": "https://github.com/BBartt/my-first-npm-package#readme"
+}
