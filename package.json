@@ -1,6 +1,6 @@
 {
   "name": "is-fizzbuzz",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A simple function that checks if number is 'FizzBuzz'",
   "main": "index.js",
   "scripts": {
